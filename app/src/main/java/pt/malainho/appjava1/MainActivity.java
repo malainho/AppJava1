@@ -55,10 +55,10 @@ public class MainActivity extends AppCompatActivity {
             Comentário 3
         */
 
-        quartaAula();
+        constantes();
     }
 
-    private void quartaAula(){
+    private void constantes(){
         // Constantes
         final double PI=3.14;
         final char SEXO_MASCULINO='M';
